@@ -31,7 +31,7 @@ public class Ex05 {
 		System.out.println("test");
 		
 		System.out.println("test2");
-		
+		System.out.println("test3");
 		sc.close();
 		
 	}

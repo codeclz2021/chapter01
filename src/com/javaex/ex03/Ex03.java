@@ -14,7 +14,6 @@ public class Ex03 {
 		//12  -5  0
 		int point = sc.nextInt();
 		
-		
 		if(point>0) {
 			//12
 			System.out.println("양수");

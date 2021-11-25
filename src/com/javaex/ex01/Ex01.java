@@ -2,6 +2,16 @@ package com.javaex.ex01;
 
 public class Ex01 {
 	
+	//필드
+	
+	//생성자
+	//디폴드생성자
+	public Ex01() {}
+	
+	
+	//메소드 g/s
+	
+	//메소드 일반
 	public static void main(String[] args) {
 		
 		int myAge;
